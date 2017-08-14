@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-02-17 10:12+0300\n"
+"PO-Revision-Date: 2017-02-17 10:12+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin-settings.php:2
+msgid "osTicket Connector"
+msgstr ""
+
+#: admin-settings.php:4
+msgid "API Settings"
+msgstr "Настройки API"
+
+#: admin-settings.php:11
+msgid "URL"
+msgstr ""
+
+#: admin-settings.php:11 admin-settings.php:24 admin-settings.php:44
+#: admin-settings.php:57 admin-settings.php:69 admin-settings.php:81
+#: admin-settings.php:108 admin-settings.php:119
+msgid "(required)"
+msgstr ""
+
+#: admin-settings.php:17
+msgid "URL to /api/tickets.json"
+msgstr ""
+
+#: admin-settings.php:24
+msgid "API Key"
+msgstr ""
+
+#: admin-settings.php:31
+msgid ""
+"Please log into osticket as an admin and navigate to: Admin panel -> Manage -"
+"> Api Keys then add a new API Key."
+msgstr ""
+
+#: admin-settings.php:38
+msgid "Ticket Settings"
+msgstr ""
+
+#: admin-settings.php:39
+msgid ""
+"Please provide values of form inputs name attribute which used on the "
+"contact form."
+msgstr ""
+
+#: admin-settings.php:44
+msgid "Form Identifier"
+msgstr ""
+
+#: admin-settings.php:50
+msgid "Please provide a unique form identifier"
+msgstr ""
+
+#: admin-settings.php:57
+msgid "Help Topic"
+msgstr ""
+
+#: admin-settings.php:69
+msgid "Email"
+msgstr ""
+
+#: admin-settings.php:81
+msgid "Full Name"
+msgstr ""
+
+#: admin-settings.php:92
+msgid "Phone"
+msgstr ""
+
+#: admin-settings.php:100
+msgid "Phone Ext"
+msgstr ""
+
+#: admin-settings.php:108
+msgid "Subject"
+msgstr ""
+
+#: admin-settings.php:119
+msgid "Message"
+msgstr ""
+
+#: admin-settings.php:130
+msgid "Attachments"
+msgstr ""
+
+#: admin-settings.php:135
+msgid "You can specify several fields separated by a comma"
+msgstr ""
+
+#: admin-settings.php:141
+msgid "Priority Level"
+msgstr ""
+
+#: admin-settings.php:145
+msgid "Low"
+msgstr ""
+
+#: admin-settings.php:146
+msgid "Normal"
+msgstr ""
+
+#: admin-settings.php:147
+msgid "High"
+msgstr ""
+
+#: admin-settings.php:148
+msgid "Emergency"
+msgstr ""
+
+#: admin-settings.php:153
+msgid "Log Settings"
+msgstr ""
+
+#: admin-settings.php:157 admin-settings.php:162
+msgid "Enable logging"
+msgstr ""
+
+#: admin-settings.php:166
+msgid "Saves result of creation of ticket into log file"
+msgstr ""
+
+#: class-http-api.php:108
+msgid "Invalid url."
+msgstr ""
+
+#: class-http-api.php:113
+msgid "Invalid key format."
+msgstr ""
+
+#: class-http-api.php:118
+msgid "Invalid form name format."
+msgstr ""
+
+#: class-http-api.php:122
+msgid "Invalid topic name attribute value."
+msgstr ""
+
+#: class-http-api.php:127
+msgid "Invalid email name attribute value."
+msgstr ""
+
+#: class-http-api.php:132
+msgid "Invalid fullname's name attribute value."
+msgstr ""
+
+#: class-http-api.php:137
+msgid "Invalid phone name attribute value."
+msgstr ""
+
+#: class-http-api.php:142
+msgid "Invalid phone extension name attribute value."
+msgstr ""
+
+#: class-http-api.php:147
+msgid "Invalid subject name attribute value."
+msgstr ""
+
+#: class-http-api.php:152
+msgid "Invalid message name attribute value."
+msgstr ""
+
+#: class-http-api.php:157
+msgid "Invalid attachments name attribute value."
+msgstr ""
+
+#: class-http-api.php:166
+msgid "Sorry, you are not allowed to manage options for this site."
+msgstr ""
+
+#: class-http-api.php:176
+#, php-format
+msgid "You have not configured this script with %s!"
+msgstr ""
+
+#: class-http-api.php:184
+msgid "Settings saved."
+msgstr ""

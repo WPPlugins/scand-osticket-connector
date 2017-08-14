@@ -1,0 +1,19 @@
+.form-table .form-required.form-invalid td div {
+	position: relative;
+}
+
+.form-table .form-required.form-invalid div:after {
+	position: absolute;
+	top: 5px;
+	left: 18em;
+	content: "\f534";
+	font: normal 20px/1 dashicons;
+	color: #dc3232;
+	margin-left: -30px;
+}
+
+.form-table .form-required.form-invalid td:after {
+	content: "";
+	margin-left: 0;
+	display: none;
+}
